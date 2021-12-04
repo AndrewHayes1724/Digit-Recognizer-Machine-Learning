@@ -6,7 +6,7 @@ This project is a cool Machine learning program that I have been trying to do fo
 
 My purpose for creating this software was really to take a model and train the program to learn how to figure out what a user inputs. This is used in a lot of scenarios on the internet and I wanted to see if I could create a program to replicate the AI that does this.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/T68_rmJDmgg)
 
 # Development Environment
 
